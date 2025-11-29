@@ -1,4 +1,4 @@
-# 📝 Next Word Prediction using LSTM & GRU (Hamlet – Shakespeare)
+# 📝 Next Word Prediction using LSTM & GRU (Hamlet – Shakespeare )
 
 This is an end-to-end **Next Word Prediction** project built with **TensorFlow**, **Keras**, and **Streamlit**.  
 It predicts the next word based on context learned from **Hamlet** by *William Shakespeare*, downloaded from the **NLTK Gutenberg corpus**.
@@ -7,7 +7,7 @@ The project includes:
 - Tokenization
 - LSTM & GRU model training
 - Model + tokenizer saving
-- A Streamlit web interface for predictions
+- A Streamlit web interface for prediction
 
 ---
 
