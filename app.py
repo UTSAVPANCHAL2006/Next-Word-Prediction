@@ -10,7 +10,7 @@ model=load_model('nextword_model.h5')
 
 #3 Laod the tokenizer
 with open('tokenizer.pkl','rb') as handle:
-    tokenizer=pickle.load(handle)
+    tokenizer=pickle.load(handle)      
 
 # Function to predict the next word
 def predict_next_word(model, tokenizer, text, max_sequence_len):
